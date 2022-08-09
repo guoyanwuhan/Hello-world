@@ -1,3 +1,7 @@
+package com.gradescope.intlist;
+
+import com.gradescope.intlist.AbstractIntList;
+
 public class IntList extends AbstractIntList{
 
     /**
